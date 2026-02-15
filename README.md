@@ -1,103 +1,62 @@
-📊 Credit Card Analytics – Transaction & Customer Dashboard (Power BI)
-📌 Project Overview
+# 💳 Credit Card Analytics Dashboard – Revenue & Customer Insights
 
-This Power BI project analyses credit card transaction and customer data to uncover revenue trends, customer segmentation patterns, and financial performance insights.
+## 📌 Project Overview
+This Power BI project provides a comprehensive analysis of credit card transactions and customer behavior across multiple dimensions including revenue trends, spending categories, demographic segmentation, and income analysis.
+The dashboard enables financial stakeholders to monitor performance, identify high-value customer segments, and support data-driven business decisions.
 
-The dashboard enables interactive exploration of transaction behaviour, customer demographics, and profitability metrics to support data-driven business decisions in a financial services context.
+## 🎯 Business Objectives
+- Monitor revenue and transaction trends across weeks and quarters  
+- Identify high-performing customer segments  
+- Analyse spending behaviour across expense categories  
+- Understand the relationship between income, job type, and interest generation  
+- Support targeted marketing and financial strategy planning  
 
-🎯 Business Objectives
+## 📊 Key KPIs
+- **Total Revenue:** 55M  
+- **Total Income:** 576M  
+- **Total Interest Earned:** 7.84M  
+- **Total Transaction Amount:** 45M  
+- **Total Transaction Count:** 656K  
 
-Identify high-revenue customer segments
+## 🔍 Key Insights
+- **Q3 generated the highest quarterly revenue (14.2M)** indicating seasonal spending trends.
+- **Blue card category contributes 46M revenue**, dominating overall portfolio performance.
+- **Swipe transactions (35M)** significantly exceed chip and online usage.
+- Customers in the **High Salary slab generate 22M revenue**, showing strong income-to-spend correlation.
+- **Businessman segment produces the highest revenue and interest earned**, making it a premium customer segment.
+- **Graduate education level contributes 22M revenue**, the highest among education categories.
+- Top revenue-generating states include **TX, NY, and CA**.
+- Week-over-week revenue trends show fluctuations requiring deeper campaign alignment.
 
-Analyse weekly and quarterly revenue performance
+## 📈 Strategic Recommendations
+- Introduce premium loyalty programs targeting high-income and businessman segments.
+- Encourage secure payment modes (chip/online) through reward-based incentives.
+- Focus marketing efforts in high-performing states.
+- Investigate seasonal revenue fluctuations for optimisation opportunities.
 
-Understand revenue contribution by card category
+## 🧠 Skills Demonstrated
+- Data cleaning and transformation using Power Query  
+- Data modelling and relationship management  
+- DAX measures including WoW Revenue and time intelligence  
+- Financial KPI analysis  
+- Customer segmentation and behavioural analytics  
+- Interactive dashboard storytelling  
 
-Evaluate transaction behaviour (Swipe, Chip, Online)
+## 🛠️ Tools & Technologies
+- Power BI Desktop  
+- DAX  
+- Power Query  
+- CSV Data Source
+- SQL 
 
-Support strategic targeting and profitability optimisation
+## 📁 Dataset
+The dataset used in this project is anonymised and intended for learning and portfolio demonstration purposes only.
 
-📊 Key KPIs
+## 📸 Dashboard Preview
+![Credit Card Dashboard Preview](add-your-image-link-here)
 
-Total Revenue: 55M
+## 📄 Full Dashboard (PDF)
+[Click here to view the complete dashboard PDF](add-your-pdf-link-here)
 
-Total Income: 576M
-
-Total Interest Earned: 7.84M
-
-Total Transaction Amount: 45M+
-
-Quarterly Revenue Distribution: Q3 highest performing quarter
-
-🔍 Key Insights
-
-Blue card category contributes the highest revenue (46M)
-
-Businessman segment generates maximum revenue and interest income
-
-Swipe transactions dominate compared to chip and online methods
-
-Revenue peaks in Q3 across all customer segments
-
-Mid-to-high income customers contribute significantly to overall revenue
-
-Top revenue-generating states include TX, CA, and NY
-
-📊 Dashboard Features
-🔹 Transaction Report
-
-Week-over-Week (WoW) revenue analysis
-
-Quarterly revenue vs transaction count comparison
-
-Revenue breakdown by:
-
-Card Category
-
-Expense Type
-
-Education Level
-
-Customer Job
-
-Transaction Mode
-
-Interactive filters for date and quarter selection
-
-🔹 Customer Report
-
-Revenue by Age Group
-
-Revenue by Salary Slab
-
-Revenue by Education Level
-
-Revenue, Income, and Interest by Customer Job
-
-Top 5 Revenue States
-
-🧠 Skills Demonstrated
-
-Data cleaning and transformation using Power Query
-
-Data modelling and relationship management
-
-DAX measures for KPI calculations
-
-Week-over-Week revenue analysis
-
-Financial performance analysis
-
-Customer segmentation modelling
-
-Interactive dashboard design and storytelling
-
-🛠️ Tools & Technologies
-
-Power BI Desktop
-
-DAX
-
-Power Query
-
-CSV / Excel data source
+## 👤 Author
+Aniket Nitnaware
