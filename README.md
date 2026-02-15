@@ -56,7 +56,7 @@ The dataset used in this project is anonymised and intended for learning and por
 ![Credit Card Dashboard Preview](add-your-image-link-here)
 
 ## 📄 Full Dashboard (PDF)
-[Click here to view the complete dashboard PDF](add-your-pdf-link-here)
+[Click here to view the complete dashboard PDF]([add-your-pdf-link-here](https://github.com/aniketnitnaware1702-web/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report.pdf))
 
 ## 👤 Author
 Aniket Nitnaware
