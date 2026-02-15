@@ -53,7 +53,7 @@ The dashboard enables financial stakeholders to monitor performance, identify hi
 The dataset used in this project is anonymised and intended for learning and portfolio demonstration purposes only.
 
 ## 📸 Dashboard Preview
-![Credit Card Dashboard Preview](add-your-image-link-here)
+![Credit Card Dashboard Preview](https://github.com/aniketnitnaware1702-web/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report.png)
 
 ## 📄 Full Dashboard (PDF)
 [Click here to view the complete dashboard PDF](https://github.com/aniketnitnaware1702-web/Credit_Card_Financial_Dashboard/blob/main/Credit_Card_Report.pdf)
